@@ -1,0 +1,1 @@
+This file can be run from the command line.  It runs another program and gets the std output from that program.  It then prints it to the screen.  This is an example of how to use the subprocess package in python3.
